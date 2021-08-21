@@ -1,9 +1,7 @@
 import sympy as sp
 
 problem = """
-:x
-
-:c
+Problem 1.3
 ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
 The resistance R' of a particular carbon resistor obeys the equation
        ________
