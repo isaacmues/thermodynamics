@@ -23,25 +23,25 @@ Solution
 (a) Let 𝜏 be a function of T and L. Then
 
              ⎛ ∂𝜏 ⎞      ⎛ ∂𝜏 ⎞
-        d𝜏 = |‒‒‒‒| dT + |‒‒‒‒| dL
+        d𝜏 = ⎜‒‒‒‒⎟ dT + ⎜‒‒‒‒⎟ dL
              ⎝ ∂T ⎠L     ⎝ ∂L ⎠T
 
     We also have that the linear expansivity is
 
             1 ⎛ ∂L ⎞
-        𝛂 = ‒ |‒‒‒‒|
+        𝛂 = ‒ ⎜‒‒‒‒⎟
             L ⎝ ∂T ⎠𝜏
 
     And the isothermal Young's modulus
 
             L ⎛ ∂𝜏 ⎞
-        Y = ‒ |‒‒‒‒|
+        Y = ‒ ⎜‒‒‒‒⎟
             A ⎝ ∂L ⎠T
 
     So d𝜏 can be rewritten as
 
              ⎛ ∂𝜏 ⎞  ⎛ ∂L ⎞      A Y 
-        d𝜏 = |‒‒‒‒|  |‒‒‒‒| dT + ‒‒‒ dL
+        d𝜏 = ⎜‒‒‒‒⎟  ⎜‒‒‒‒⎟ dT + ‒‒‒ dL
              ⎝ ∂L ⎠T ⎝ ∂T ⎠𝜏      L 
 
                          A Y
